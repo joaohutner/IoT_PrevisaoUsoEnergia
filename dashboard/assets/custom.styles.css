@@ -1,0 +1,10 @@
+body {
+    background: #eef0ee;
+    background: -webkit-linear-gradient(to right, #eef0ee, #e0dede);
+    background: linear-gradient(to right, #eef0ee, #e0dede);
+    min-height: 100vh;
+}
+
+.nav-link {
+    color: white;
+}

@@ -1,0 +1,31 @@
+{
+   "KeyMapping": {
+      "VarMapping": {
+         "id": "ID",
+         "status": "Status",
+         "criado_por": "Criado Por",
+         "atribuido_a": "Atribuido A",
+         "atendido_por": "Atendido Por",
+         "severidade": "Severidade",
+         "prioridade": "Prioridade",
+         "cliente": "Cliente",
+         "data_criacao": "Data Criacao",
+         "data_fechamento": "Data Fechamento",
+         "tipo_chamado": "Tipo Chamado"
+      },
+      "FieldMapping": {
+         "ID": "ID",
+         "Status": "Status",
+         "CriadoPor": "Criado Por",
+         "AtribuidoA": "Atribuido A",
+         "AtendidoPor": "Atendido Por",
+         "Severidade": "Severidade",
+         "Prioridade": "Prioridade",
+         "Cliente": "Cliente",
+         "DataCriacao": "Data Criacao",
+         "DataFechamento": "Data Fechamento",
+         "TipoChamado": "Tipo Chamado"
+      }
+   },
+   "DateFormat": "%d-%m-%Y %H:%M"
+}

@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+catboost_info
+*.zip
+*.pem
+dashboard/__pycache__
+modelos/modelo_final.*
+docs/.ipynb_checkpoints
+docs/catboost_info
+app/modelo_iot_energia.pkl
+app/*.zip
+app/__pycache__
+api/*.pkl
+api/__pycache__

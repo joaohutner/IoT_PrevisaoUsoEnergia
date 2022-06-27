@@ -1,0 +1,300 @@
+ID,AtendidoPor,Status,Severidade,CriadoPor,AtribuidoA,DataCriacao,Cliente,Prioridade,Sumario,DataFechamento,TipoChamado
+123456,Atendente - 01,Aberto,Crítico,Colaborador - 06,-,27-01-2021 08:42,Cliente - 001,Alta,Código Sumário - 100,13-01-2021 06:42,Bug
+123457,Atendente - 01,Fechado,Crítico,Colaborador - 07,-,3/2/2021 12:39,Cliente - 002,Alta,Código Sumário - 101,13-01-2021 22:58,Desenvolvimento
+123458,Atendente - 01,Aberto,Crítico,Colaborador - 08,-,4/2/2021 12:39,Cliente - 003,Alta,Código Sumário - 102,13-01-2021 13:02,Bug
+123459,Atendente - 01,Fechado,Crítico,Colaborador - 07,-,5/2/2021 12:39,Cliente - 004,Alta,Código Sumário - 103,13-01-2021 04:21,Desenvolvimento
+123460,Atendente - 01,Aberto,Crítico,Atendente - 09,-,6/2/2021 12:39,Cliente - 005,Alta,Código Sumário - 104,13-01-2021 08:57,Banco de Dados
+123461,Atendente - 01,Aberto,Crítico,Colaborador - 07,-,21-02-2021 08:15,Cliente - 006,Alta,Código Sumário - 105,14-01-2021 00:28,Bug
+123462,Atendente - 01,Aberto,Crítico,Colaborador - 10,-,17-01-2021 13:40,Cliente - 007,Alta,Código Sumário - 106,13-01-2021 06:37,Bug
+123463,Atendente - 01,Em Andamento,Crítico,Colaborador - 11,-,16-12-2020 09:10,Cliente - 008,Alta,Código Sumário - 107,13-01-2021 12:31,Desenvolvimento
+123464,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,4/12/2020 12:02,Cliente - 009,Baixa,Código Sumário - 108,13-01-2021 04:22,Homologação
+123465,Atendente - 01,Em Espera,Crítico,Colaborador - 12,-,11/2/2021 16:50,Cliente - 005,Alta,Código Sumário - 109,13-01-2021 03:54,Desenvolvimento
+123466,Atendente - 03,Em Espera,Não Crítico,Colaborador - 13,Colaborador - 19,12/3/2021 13:33,Cliente - 008,Baixa,Código Sumário - 110,13-01-2021 12:30,Bug
+123467,Atendente - 01,Em Espera,Não Crítico,Colaborador - 14,-,5/3/2021 11:48,Cliente - 010,Media,Código Sumário - 111,13-01-2021 03:57,Desenvolvimento
+123468,Atendente - 01,Em Espera,Erro Crítico,Colaborador - 11,-,25-02-2021 08:51,Cliente - 001,Alta,Código Sumário - 112,13-01-2021 04:00,Desenvolvimento
+123469,Atendente - 01,Fechado,Crítico,Colaborador - 15,-,6/3/2021 15:05,Cliente - 011,Media,Código Sumário - 113,13-01-2021 04:02,Desenvolvimento
+123470,Atendente - 02,Fechado,Erro Crítico,Colaborador - 16,Colaborador - 16,2/2/2021 13:36,Cliente - 009,Alta,Código Sumário - 114,13-01-2021 04:04,Manutenção
+123471,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,24-12-2020 10:23,Cliente - 009,Baixa,Código Sumário - 115,13-01-2021 04:12,Homologação
+123472,Atendente - 01,Fechado,Crítico,Colaborador - 17,Colaborador - 072,12/12/2020 11:48,Cliente - 001,Alta,Código Sumário - 116,13-01-2021 02:49,Bug
+123473,Atendente - 01,Aberto,Não Crítico,Colaborador - 18,-,12/2/2021 13:42,Cliente - 009,Baixa,Código Sumário - 117,13-01-2021 07:33,Bug
+123474,Atendente - 01,Fechado,Não Crítico,Colaborador - 19,Colaborador - 19,5/12/2020 9:45,Cliente - 009,Alta,Código Sumário - 118,13-01-2021 06:13,Bug
+123475,Atendente - 01,Fechado,Crítico,Colaborador - 20,-,9/1/2021 13:03,Cliente - 010,Media,Código Sumário - 119,13-01-2021 06:10,Desenvolvimento
+123476,Atendente - 01,Aberto,Crítico,Colaborador - 21,-,3/12/2020 8:22,Cliente - 012,Alta,Código Sumário - 120,13-01-2021 16:05,Desenvolvimento
+123477,Atendente - 01,Fechado,Crítico,Colaborador - 22,-,24-02-2021 10:06,Cliente - 002,Media,Código Sumário - 121,13-01-2021 14:17,Desenvolvimento
+123478,Atendente - 01,Fechado,Crítico,Colaborador - 22,-,28-02-2021 16:49,Cliente - 002,Media,Código Sumário - 122,13-01-2021 14:13,Desenvolvimento
+123479,Atendente - 04,Fechado,Crítico,Colaborador - 23,-,20-12-2020 10:07,Cliente - 011,Alta,Código Sumário - 123,13-01-2021 07:35,Desenvolvimento
+123480,Atendente - 04,Fechado,Não Crítico,Colaborador - 24,Colaborador - 24,3/2/2021 14:49,Cliente - 009,Alta,Código Sumário - 124,13-01-2021 18:58,Desenvolvimento
+123481,Atendente - 04,Aberto,Não Crítico,Colaborador - 24,Colaborador - 24,11/12/2020 14:20,Cliente - 009,Alta,Código Sumário - 125,13-01-2021 18:59,Desenvolvimento
+123482,Atendente - 04,Aberto,Crítico,Colaborador - 25,Colaborador - 073,29-01-2021 16:05,Cliente - 016,Alta,Código Sumário - 126,13-01-2021 06:39,Manutenção
+123483,Atendente - 03,Fechado,Crítico,Colaborador - 26,Colaborador - 16,18-02-2021 12:07,Cliente - 015,Alta,Código Sumário - 127,13-01-2021 04:12,Bug
+123484,Atendente - 02,Fechado,Erro Crítico,Colaborador - 16,Colaborador - 16,8/2/2021 11:32,Cliente - 009,Alta,Código Sumário - 128,14-01-2021 01:29,Bug
+123485,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,2/12/2020 14:24,Cliente - 009,Baixa,Código Sumário - 129,13-01-2021 08:44,Homologação
+123486,Atendente - 03,Fechado,Crítico,Colaborador - 26,Colaborador - 16,25-02-2021 11:51,Cliente - 007,Alta,Código Sumário - 130,13-01-2021 20:11,Bug
+123487,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,25-01-2021 11:52,Cliente - 009,Baixa,Código Sumário - 131,13-01-2021 20:17,Homologação
+123488,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,28-12-2020 13:09,Cliente - 009,Baixa,Código Sumário - 132,13-01-2021 12:17,Homologação
+123489,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,19-01-2021 15:03,Cliente - 009,Baixa,Código Sumário - 133,12/1/2021 19:55,Homologação
+123490,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,22-01-2021 10:40,Cliente - 009,Baixa,Código Sumário - 134,12/1/2021 4:42,Homologação
+123491,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,22-01-2021 12:11,Cliente - 009,Baixa,Código Sumário - 135,12/1/2021 6:18,Homologação
+123492,Atendente - 01,Em Andamento,Erro Crítico,Colaborador - 27,Colaborador - 075,2/2/2021 9:40,Cliente - 007,Alta,Código Sumário - 136,12/1/2021 6:32,Login
+123493,Atendente - 09,Fechado,Crítico,Colaborador - 28,Colaborador - 069,1/2/2021 10:26,Cliente - 018,Alta,Código Sumário - 137,12/1/2021 7:53,Login
+123494,Atendente - 04,Aberto,Não Crítico,Colaborador - 29,Colaborador - 077,18-03-2021 08:55,Cliente - 009,Alta,Código Sumário - 138,12/1/2021 9:58,Manutenção
+123495,Atendente - 04,Fechado,Não Crítico,Colaborador - 30,Colaborador - 30,15-03-2021 16:14,Cliente - 009,Alta,Código Sumário - 139,12/1/2021 12:10,Atualização
+123496,Atendente - 04,Resolvido,-,Colaborador - 31,Colaborador - 31,15-02-2021 10:59,Cliente - 009,Media,Código Sumário - 140,13-01-2021 01:12,Manutenção
+123497,Atendente - 01,Fechado,Não Crítico,Colaborador - 32,Colaborador - 078,17-12-2020 12:03,Cliente - 009,Alta,Código Sumário - 141,13-01-2021 01:36,Bug
+123498,Atendente - 01,Fechado,-,Colaborador - 33,Colaborador - 078,6/12/2020 9:52,Cliente - 009,Alta,Código Sumário - 142,12/1/2021 14:19,Instalação
+123499,Atendente - 03,Aberto,-,Colaborador - 13,Colaborador - 075,13-02-2021 15:55,Cliente - 003,Media,Código Sumário - 143,13-01-2021 20:19,Bug
+123500,Atendente - 01,Aberto,Crítico,Colaborador - 34,Colaborador - 078,26-02-2021 16:50,Cliente - 009,Alta,Código Sumário - 144,12/1/2021 7:56,Bug
+123501,Atendente - 01,Fechado,Crítico,Colaborador - 35,Colaborador - 36,29-12-2020 08:22,Cliente - 051,Alta,Código Sumário - 145,13-01-2021 06:00,Login
+123502,Atendente - 02,Fechado,-,Colaborador - 36,Colaborador - 36,14-02-2021 16:45,Cliente - 009,Alta,Código Sumário - 146,13-01-2021 10:21,Bug
+123503,Atendente - 03,Fechado,-,Colaborador - 36,Colaborador - 36,7/2/2021 13:48,Cliente - 005,Alta,Código Sumário - 147,13-01-2021 08:20,Bug
+123504,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,12/3/2021 8:05,Cliente - 004,Alta,Código Sumário - 148,13-01-2021 03:40,Backup
+123505,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,13-03-2021 08:05,Cliente - 009,Alta,Código Sumário - 149,12/1/2021 7:45,Atualização
+123506,Atendente - 04,Fechado,Alerta,Colaborador - 37,Colaborador - 37,14-03-2021 08:05,Cliente - 009,Baixa,Código Sumário - 150,12/1/2021 4:36,Atualização
+123507,Atendente - 04,Fechado,Alerta,Colaborador - 38,Colaborador - 38,15-03-2021 08:05,Cliente - 009,Baixa,Código Sumário - 151,12/1/2021 4:38,Manutenção
+123508,Atendente - 04,Fechado,Alerta,Colaborador - 38,Colaborador - 38,16-03-2021 08:05,Cliente - 009,Baixa,Código Sumário - 152,12/1/2021 4:40,Manutenção
+123509,Atendente - 04,Aberto,Alerta,Colaborador - 38,Colaborador - 38,5/12/2020 10:59,Cliente - 009,Baixa,Código Sumário - 153,13-01-2021 00:39,Manutenção
+123510,Atendente - 04,Fechado,Crítico,Colaborador - 39,Colaborador - 39,21-12-2020 14:23,Cliente - 020,Baixa,Código Sumário - 154,13-01-2021 12:29,Desenvolvimento
+123511,Atendente - 01,Fechado,Crítico,Colaborador - 40,Colaborador - 070,25-01-2021 16:36,Cliente - 009,Baixa,Código Sumário - 155,13-01-2021 11:05,Desenvolvimento
+123512,Atendente - 05,Aberto,Crítico,Colaborador - 41,Colaborador - 071,30-12-2020 13:44,Cliente - 009,Alta,Código Sumário - 156,13-01-2021 09:58,Projeto
+123513,Atendente - 01,Aberto,Crítico,Colaborador - 42,Colaborador - 070,3/3/2021 8:18,Cliente - 015,Alta,Código Sumário - 157,12/1/2021 8:34,Desenvolvimento
+123514,Atendente - 01,Aberto,Erro Crítico,Colaborador - 07,Colaborador - 070,18-03-2021 10:21,Cliente - 019,Alta,Código Sumário - 158,12/1/2021 5:27,Bug
+123515,Atendente - 01,Fechado,Erro Crítico,Colaborador - 43,Colaborador - 39,24-01-2021 11:14,Cliente - 004,Alta,Código Sumário - 159,12/1/2021 5:00,Desenvolvimento
+123516,Atendente - 01,Aberto,Crítico,Colaborador - 44,Colaborador - 39,22-01-2021 15:46,Cliente - 020,Baixa,Código Sumário - 160,13-01-2021 05:51,Desenvolvimento
+123517,Atendente - 01,Aberto,Crítico,Colaborador - 07,Colaborador - 39,6/12/2020 8:57,Cliente - 002,Alta,Código Sumário - 161,13-01-2021 05:22,Desenvolvimento
+123518,Atendente - 01,Aberto,Erro Crítico,Colaborador - 45,Colaborador - 39,12/3/2021 16:44,Cliente - 020,Alta,Código Sumário - 162,12/1/2021 5:44,Desenvolvimento
+123519,Atendente - 04,Fechado,Crítico,Colaborador - 46,Colaborador - 46,13-03-2021 16:44,Cliente - 009,Baixa,Código Sumário - 163,12/1/2021 1:05,Manutenção
+123520,Atendente - 04,Fechado,Não Crítico,Colaborador - 18,Colaborador - 18,14-03-2021 16:44,Cliente - 009,Baixa,Código Sumário - 164,12/1/2021 4:16,Desenvolvimento
+123521,Atendente - 04,Fechado,Crítico,Colaborador - 18,Colaborador - 18,15-03-2021 16:44,Cliente - 009,Baixa,Código Sumário - 165,12/1/2021 1:05,Manutenção
+123522,Atendente - 01,Fechado,Crítico,Colaborador - 47,Colaborador - 18,16-03-2021 16:44,Cliente - 009,Baixa,Código Sumário - 166,12/1/2021 7:32,Desenvolvimento
+123523,Atendente - 01,Fechado,Crítico,Colaborador - 48,-,13-12-2020 12:07,Cliente - 007,Media,Código Sumário - 167,12/1/2021 8:08,Manutenção
+123524,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,25-01-2021 08:12,Cliente - 009,Baixa,Código Sumário - 168,12/1/2021 8:44,Homologação
+123525,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,17-12-2020 14:47,Cliente - 009,Baixa,Código Sumário - 169,12/1/2021 12:43,Homologação
+123526,Atendente - 02,Fechado,Erro Crítico,Colaborador - 16,Colaborador - 16,28-01-2021 09:21,Cliente - 009,Alta,Código Sumário - 170,12/1/2021 15:10,Bug
+123527,Atendente - 01,Fechado,Crítico,Colaborador - 50,Colaborador - 24,29-01-2021 09:21,Cliente - 009,Alta,Código Sumário - 171,13-01-2021 00:53,Manutenção
+123528,Atendente - 01,Fechado,Não Crítico,Colaborador - 49,-,30-01-2021 09:21,Cliente - 021,Media,Código Sumário - 172,12/1/2021 8:16,Desenvolvimento
+123529,Atendente - 01,Fechado,Não Crítico,Colaborador - 49,-,31-01-2021 09:21,Cliente - 021,Media,Código Sumário - 173,12/1/2021 15:32,Desenvolvimento
+123530,Atendente - 01,Aberto,Não Crítico,Colaborador - 51,Colaborador - 24,1/2/2021 9:21,Cliente - 021,Alta,Código Sumário - 174,12/1/2021 8:28,Desenvolvimento
+123531,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,2/2/2021 9:21,Cliente - 009,Baixa,Código Sumário - 175,12/1/2021 17:44,Homologação
+123532,Atendente - 01,Fechado,Crítico,Colaborador - 52,-,3/2/2021 9:21,Cliente - 023,Alta,Código Sumário - 176,13-01-2021 04:54,Desenvolvimento
+123533,Atendente - 03,Fechado,-,Colaborador - 19,Colaborador - 19,23-01-2021 11:04,Cliente - 009,Baixa,Código Sumário - 177,12/1/2021 5:04,Desenvolvimento
+123534,Atendente - 01,Fechado,Crítico,Colaborador - 08,Colaborador - 24,9/12/2020 9:25,Cliente - 022,Alta,Código Sumário - 178,12/1/2021 8:03,Desenvolvimento
+123535,Atendente - 01,Fechado,Crítico,Colaborador - 48,-,27-12-2020 10:53,Cliente - 007,Alta,Código Sumário - 179,12/1/2021 18:39,Desenvolvimento
+123536,Atendente - 01,Fechado,Crítico,Colaborador - 53,-,18-02-2021 13:14,Cliente - 026,Alta,Código Sumário - 180,12/1/2021 9:15,Desenvolvimento
+123537,Atendente - 01,Fechado,Crítico,Colaborador - 53,-,3/1/2021 10:12,Cliente - 026,Alta,Código Sumário - 181,13-01-2021 01:58,Desenvolvimento
+123538,Atendente - 01,Fechado,Crítico,Colaborador - 12,Colaborador - 24,20-12-2020 09:07,Cliente - 005,Alta,Código Sumário - 182,12/1/2021 6:38,Desenvolvimento
+123539,Atendente - 01,Fechado,Crítico,Atendente - 09,-,11/1/2021 10:55,Cliente - 028,Alta,Código Sumário - 183,12/1/2021 6:12,Desenvolvimento
+123540,Atendente - 02,Fechado,Erro Crítico,Atendente - 02,Colaborador - 16,1/12/2020 13:40,Cliente - 009,Alta,Código Sumário - 184,13-01-2021 00:16,Manutenção
+123541,Atendente - 01,Fechado,-,Colaborador - 54,-,7/12/2020 11:44,Cliente - 009,Baixa,Código Sumário - 185,14-01-2021 01:06,Bug
+123542,Atendente - 04,Fechado,-,Colaborador - 24,Colaborador - 24,29-01-2021 11:16,Cliente - 009,Baixa,Código Sumário - 186,13-01-2021 05:38,Desenvolvimento
+123543,Atendente - 03,Fechado,Crítico,Colaborador - 55,Colaborador - 16,30-12-2020 11:26,Cliente - 029,Alta,Código Sumário - 187,13-01-2021 15:50,Bug
+123544,Atendente - 03,Fechado,Crítico,Colaborador - 55,Colaborador - 16,10/3/2021 16:22,Cliente - 022,Alta,Código Sumário - 188,11/1/2021 12:44,Bug
+123545,Atendente - 03,Fechado,Crítico,Colaborador - 56,Colaborador - 16,21-02-2021 12:12,Cliente - 030,Alta,Código Sumário - 189,12/1/2021 14:46,Bug
+123546,Atendente - 01,Fechado,Crítico,Colaborador - 56,Colaborador - 16,10/12/2020 12:46,Cliente - 001,Alta,Código Sumário - 190,12/1/2021 12:32,Bug
+123547,Atendente - 01,Fechado,Crítico,Colaborador - 57,-,7/1/2021 10:06,Cliente - 001,Alta,Código Sumário - 191,13-01-2021 07:30,Desenvolvimento
+123548,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,25-12-2020 14:58,Cliente - 009,Baixa,Código Sumário - 192,11/1/2021 3:12,Homologação
+123549,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,17-12-2020 11:41,Cliente - 009,Baixa,Código Sumário - 193,11/1/2021 3:23,Homologação
+123550,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,18-12-2020 11:41,Cliente - 009,Baixa,Código Sumário - 194,11/1/2021 3:30,Homologação
+123551,Atendente - 09,Fechado,Crítico,Colaborador - 28,-,19-12-2020 11:41,Cliente - 032,Media,Código Sumário - 195,11/1/2021 3:55,Desenvolvimento
+123552,Atendente - 09,Fechado,Crítico,Colaborador - 28,-,20-12-2020 11:41,Cliente - 032,Media,Código Sumário - 196,11/1/2021 6:40,Desenvolvimento
+123553,Atendente - 01,Fechado,-,Colaborador - 58,-,21-12-2020 11:41,Cliente - 007,Baixa,Código Sumário - 197,11/1/2021 4:34,Desenvolvimento
+123554,Atendente - 01,Fechado,Crítico,Colaborador - 59,-,2/3/2021 16:23,Cliente - 010,Media,Código Sumário - 198,11/1/2021 5:34,Desenvolvimento
+123555,Atendente - 01,Aberto,Crítico,Colaborador - 0107,Atendente - 02,12/12/2020 10:56,Cliente - 009,Alta,Código Sumário - 199,11/1/2021 10:49,Desenvolvimento
+123556,Atendente - 03,Fechado,Crítico,Colaborador - 55,Colaborador - 16,13-12-2020 10:56,Cliente - 033,Alta,Código Sumário - 200,11/1/2021 5:47,Bug
+123557,Atendente - 03,Fechado,Crítico,Colaborador - 55,Colaborador - 19,14-12-2020 10:56,Cliente - 034,Alta,Código Sumário - 201,11/1/2021 10:43,Bug
+123558,Atendente - 03,Fechado,Crítico,Colaborador - 17,Colaborador - 19,15-12-2020 10:56,Cliente - 023,Alta,Código Sumário - 202,11/1/2021 6:46,Bug
+123559,Atendente - 04,Fechado,-,Colaborador - 0108,Colaborador - 077,16-12-2020 10:56,Cliente - 020,Alta,Código Sumário - 203,11/1/2021 10:00,Manutenção
+123560,Atendente - 01,Fechado,-,Colaborador - 28,Colaborador - 078,14-01-2021 11:14,Cliente - 009,Baixa,Código Sumário - 204,11/1/2021 10:27,Homologação
+123561,Atendente - 01,Fechado,-,Colaborador - 078,Colaborador - 078,19-01-2021 15:44,Cliente - 009,Baixa,Código Sumário - 205,11/1/2021 10:29,Instalação
+123562,Atendente - 03,Fechado,-,Colaborador - 0109,Colaborador - 075,11/12/2020 9:56,Cliente - 036,Baixa,Código Sumário - 206,11/1/2021 12:11,Bug
+123563,Atendente - 01,Fechado,Crítico,Colaborador - 0110,Colaborador - 077,27-02-2021 10:52,Cliente - 036,Alta,Código Sumário - 207,11/1/2021 6:23,Desenvolvimento
+123564,Atendente - 04,Fechado,-,Colaborador - 075,Colaborador - 075,29-01-2021 11:27,Cliente - 009,Alta,Código Sumário - 208,11/1/2021 7:00,Desenvolvimento
+123565,Atendente - 04,Em Andamento,-,Colaborador - 0111,Colaborador - 077,16-12-2020 10:19,Cliente - 033,Baixa,Código Sumário - 209,12/1/2021 1:44,Manutenção
+123566,Atendente - 04,Aberto,-,Colaborador - 0112,Colaborador - 31,17-12-2020 10:19,Cliente - 009,Baixa,Código Sumário - 210,11/1/2021 7:44,Manutenção
+123567,Atendente - 04,Aberto,Crítico,Colaborador - 0104,Colaborador - 069,18-12-2020 10:19,Cliente - 020,Alta,Código Sumário - 211,12/1/2021 2:09,Manutenção
+123568,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,1/3/2021 9:25,Cliente - 009,Alta,Código Sumário - 212,12/1/2021 11:47,Projeto
+123569,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,2/3/2021 9:25,Cliente - 009,Alta,Código Sumário - 213,12/1/2021 2:05,Projeto
+123570,Atendente - 01,Fechado,-,Colaborador - 0114,Colaborador - 075,2/12/2020 13:43,Cliente - 009,Baixa,Código Sumário - 214,11/1/2021 19:08,Desenvolvimento
+123571,Atendente - 02,Fechado,Crítico,Colaborador - 0118,Colaborador - 069,12/2/2021 10:33,Cliente - 022,Media,Código Sumário - 215,11/1/2021 4:51,Bug
+123572,Atendente - 01,Fechado,-,Colaborador - 0117,Colaborador - 078,4/1/2021 12:00,Cliente - 009,Baixa,Código Sumário - 216,11/1/2021 7:57,Desenvolvimento
+123573,Atendente - 01,Fechado,Crítico,Colaborador - 0110,Colaborador - 078,14-12-2020 15:33,Cliente - 009,Alta,Código Sumário - 217,12/1/2021 4:34,Desenvolvimento
+123574,Atendente - 04,Aberto,Crítico,Colaborador - 07,Colaborador - 075,30-01-2021 11:37,Cliente - 037,Alta,Código Sumário - 218,11/1/2021 4:54,Bug
+123575,Atendente - 04,Aberto,-,Colaborador - 0120,Colaborador - 069,14-03-2021 11:46,Cliente - 009,Baixa,Código Sumário - 219,11/1/2021 4:43,Manutenção
+123576,Atendente - 01,Fechado,-,Colaborador - 0103,Colaborador - 078,7/3/2021 10:52,Cliente - 009,Baixa,Código Sumário - 220,11/1/2021 2:19,Bug
+123577,Atendente - 01,Fechado,Crítico,Colaborador - 50,Colaborador - 077,16-12-2020 10:54,Cliente - 009,Alta,Código Sumário - 221,13-01-2021 00:03,Desenvolvimento
+123578,Atendente - 01,Fechado,Crítico,Colaborador - 0103,Colaborador - 36,27-12-2020 16:02,Cliente - 004,Alta,Código Sumário - 222,11/1/2021 17:37,Desenvolvimento
+123579,Atendente - 01,Aberto,-,Colaborador - 0119,Colaborador - 075,8/2/2021 9:50,Cliente - 038,Baixa,Código Sumário - 223,11/1/2021 6:13,Login
+123580,Atendente - 02,Fechado,-,Colaborador - 36,Colaborador - 36,12/2/2021 14:55,Cliente - 009,Alta,Código Sumário - 224,11/1/2021 7:21,Homologação
+123581,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,17-01-2021 15:25,Cliente - 009,Alta,Código Sumário - 225,11/1/2021 9:57,Projeto
+123582,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,17-03-2021 16:34,Cliente - 009,Alta,Código Sumário - 226,12/1/2021 5:21,Projeto
+123583,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,3/3/2021 14:49,Cliente - 009,Alta,Código Sumário - 227,11/1/2021 17:45,Projeto
+123584,Atendente - 02,Aberto,-,Colaborador - 36,Colaborador - 36,17-12-2020 14:45,Cliente - 009,Alta,Código Sumário - 228,12/1/2021 11:23,Projeto
+123585,Atendente - 02,Aberto,-,Colaborador - 36,Colaborador - 36,8/1/2021 13:15,Cliente - 009,Alta,Código Sumário - 229,11/1/2021 19:03,Projeto
+123586,Atendente - 02,Aberto,-,Colaborador - 36,Colaborador - 36,28-12-2020 08:40,Cliente - 009,Alta,Código Sumário - 230,11/1/2021 7:21,Projeto
+123587,Atendente - 02,Aberto,-,Colaborador - 36,Colaborador - 36,17-12-2020 14:45,Cliente - 009,Alta,Código Sumário - 231,14-01-2021 01:57,Projeto
+123588,Atendente - 02,Aberto,-,Colaborador - 36,Colaborador - 36,28-12-2020 08:40,Cliente - 009,Alta,Código Sumário - 232,11/1/2021 13:42,Projeto
+123589,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,22-01-2021 09:21,Cliente - 009,Alta,Código Sumário - 233,11/1/2021 14:11,Projeto
+123590,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,23-01-2021 09:21,Cliente - 009,Alta,Código Sumário - 234,11/1/2021 17:54,Projeto
+123591,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,24-01-2021 09:21,Cliente - 009,Alta,Código Sumário - 235,12/1/2021 7:40,Hardware
+123592,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,25-01-2021 09:21,Cliente - 009,Alta,Código Sumário - 236,12/1/2021 7:42,Projeto
+123593,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,4/2/2021 13:27,Cliente - 009,Alta,Código Sumário - 237,12/1/2021 2:31,Hardware
+123594,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,9/12/2020 15:26,Cliente - 009,Alta,Código Sumário - 238,11/1/2021 8:35,Projeto
+123595,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,13-01-2021 13:22,Cliente - 009,Alta,Código Sumário - 239,10/1/2021 7:27,Projeto
+123596,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,7/1/2021 9:33,Cliente - 009,Alta,Código Sumário - 240,10/1/2021 7:28,Hardware
+123597,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,9/1/2021 15:41,Cliente - 009,Alta,Código Sumário - 241,11/1/2021 4:36,Projeto
+123598,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,30-12-2020 09:02,Cliente - 009,Alta,Código Sumário - 242,11/1/2021 4:56,Projeto
+123599,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,7/3/2021 11:56,Cliente - 009,Alta,Código Sumário - 243,10/1/2021 7:28,Hardware
+123600,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,3/3/2021 9:16,Cliente - 009,Alta,Código Sumário - 244,10/1/2021 7:26,Projeto
+123601,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,10/12/2020 8:39,Cliente - 009,Alta,Código Sumário - 245,10/1/2021 13:06,Projeto
+123602,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,27-02-2021 10:51,Cliente - 009,Alta,Código Sumário - 246,11/1/2021 5:47,Projeto
+123603,Atendente - 05,Aberto,Crítico,Atendente - 05,Colaborador - 069,18-01-2021 12:46,Cliente - 009,Alta,Código Sumário - 247,13-01-2021 13:12,Projeto
+123604,Atendente - 01,Fechado,Crítico,Colaborador - 060,Colaborador - 078,1/3/2021 16:11,Cliente - 009,Media,Código Sumário - 248,12/1/2021 9:16,Bug
+123605,Atendente - 01,Fechado,Erro Crítico,Colaborador - 11,Colaborador - 068,25-12-2020 12:51,Cliente - 036,Alta,Código Sumário - 249,11/1/2021 8:40,Bug
+123606,Atendente - 04,Fechado,-,Colaborador - 18,Colaborador - 18,8/1/2021 8:07,Cliente - 019,Baixa,Código Sumário - 250,9/1/2021 7:25,Manutenção
+123607,Atendente - 04,Em Andamento,-,Colaborador - 18,Colaborador - 18,4/2/2021 10:46,Cliente - 009,Media,Código Sumário - 251,9/1/2021 7:30,Manutenção
+123608,Atendente - 04,Aberto,-,Colaborador - 0121,Colaborador - 068,10/12/2020 8:29,Cliente - 004,Alta,Código Sumário - 252,9/1/2021 7:56,Manutenção
+123609,Atendente - 04,Fechado,-,Colaborador - 46,Colaborador - 46,6/2/2021 11:29,Cliente - 009,Baixa,Código Sumário - 253,9/1/2021 5:46,Manutenção
+123610,Atendente - 04,Fechado,-,Colaborador - 38,Colaborador - 38,4/4/2021 11:29,Cliente - 009,Baixa,Código Sumário - 254,9/1/2021 6:23,Manutenção
+123611,Atendente - 01,Fechado,-,Colaborador - 44,Colaborador - 39,4/2/2021 11:29,Cliente - 020,Baixa,Código Sumário - 255,9/1/2021 7:25,Desenvolvimento
+123612,Atendente - 03,Aberto,Crítico,Colaborador - 0122,Colaborador - 070,4/2/2021 11:29,Cliente - 039,Alta,Código Sumário - 256,9/1/2021 7:24,Bug
+123613,Atendente - 01,Fechado,-,Colaborador - 0101,Colaborador - 071,4/2/2021 11:29,Cliente - 009,Baixa,Código Sumário - 257,9/1/2021 10:08,Desenvolvimento
+123614,Atendente - 04,Aberto,-,Colaborador - 39,Colaborador - 39,6/2/2021 11:29,Cliente - 009,Baixa,Código Sumário - 258,9/1/2021 12:32,Hardware
+123615,Atendente - 04,Fechado,-,Colaborador - 0111,Colaborador - 071,6/2/2021 11:29,Cliente - 033,Baixa,Código Sumário - 259,9/1/2021 18:45,Manutenção
+123616,Atendente - 04,Fechado,Crítico,Colaborador - 0104,Colaborador - 38,4/4/2021 11:29,Cliente - 020,Alta,Código Sumário - 260,9/1/2021 18:17,Manutenção
+123617,Atendente - 04,Fechado,-,Colaborador - 39,Colaborador - 39,4/4/2021 11:29,Cliente - 009,Baixa,Código Sumário - 261,9/1/2021 19:00,Desenvolvimento
+123618,Atendente - 04,Fechado,Erro Crítico,Colaborador - 12,Colaborador - 070,4/4/2021 11:29,Cliente - 040,Alta,Código Sumário - 262,9/1/2021 19:16,Manutenção
+123619,Atendente - 01,Fechado,Erro Crítico,Colaborador - 061,Colaborador - 39,4/2/2021 11:29,Cliente - 001,Alta,Código Sumário - 263,9/1/2021 19:08,Desenvolvimento
+123620,Atendente - 01,Em Espera,-,Colaborador - 0123,Colaborador - 071,6/2/2021 11:29,Cliente - 003,Media,Código Sumário - 264,9/1/2021 13:27,Desenvolvimento
+123621,Atendente - 01,Em Espera,-,Colaborador - 0114,Colaborador - 070,6/2/2021 11:29,Cliente - 009,Media,Código Sumário - 265,9/1/2021 14:08,Desenvolvimento
+123622,Atendente - 01,Em Espera,Crítico,Colaborador - 42,Colaborador - 067,4/2/2021 11:29,Cliente - 028,Alta,Código Sumário - 266,8/1/2021 13:44,Desenvolvimento
+123623,Atendente - 01,Em Espera,Crítico,Colaborador - 11,Colaborador - 39,4/2/2021 11:29,Cliente - 004,Alta,Código Sumário - 267,8/1/2021 17:23,Desenvolvimento
+123624,Atendente - 01,Aberto,Crítico,Colaborador - 11,Colaborador - 070,4/2/2021 11:29,Cliente - 006,Alta,Código Sumário - 268,11/1/2021 5:34,Bug
+123625,Atendente - 01,Fechado,Erro Crítico,Colaborador - 0124,Colaborador - 39,10/2/2021 11:29,Cliente - 004,Alta,Código Sumário - 269,8/1/2021 8:40,Desenvolvimento
+123626,Atendente - 01,Em Andamento,-,Colaborador - 43,-,4/2/2021 11:29,Cliente - 041,Baixa,Código Sumário - 270,8/1/2021 15:43,Desenvolvimento
+123627,Atendente - 02,Resolvido,Erro Crítico,Colaborador - 16,Colaborador - 16,24-02-2021 08:49,Cliente - 009,Alta,Código Sumário - 271,8/1/2021 18:08,Projeto
+123628,Atendente - 01,Fechado,-,Colaborador - 16,Colaborador - 16,3/2/2021 14:33,Cliente - 009,Baixa,Código Sumário - 272,8/1/2021 19:08,Manutenção
+123629,Atendente - 01,Em Andamento,Não Crítico,Colaborador - 0125,-,21-02-2021 09:15,Cliente - 003,Media,Código Sumário - 273,8/1/2021 19:13,Desenvolvimento
+123630,Atendente - 01,Em Andamento,Crítico,Colaborador - 51,-,12/12/2020 12:59,Cliente - 021,Alta,Código Sumário - 274,8/1/2021 19:18,Desenvolvimento
+123631,Atendente - 01,Em Andamento,-,Colaborador - 43,-,16-02-2021 12:46,Cliente - 029,Baixa,Código Sumário - 275,8/1/2021 19:56,Desenvolvimento
+123632,Atendente - 01,Fechado,Crítico,Colaborador - 12,-,26-02-2021 08:09,Cliente - 042,Alta,Código Sumário - 276,8/1/2021 20:01,Desenvolvimento
+123633,Atendente - 01,Fechado,Não Crítico,Colaborador - 0106,-,8/2/2021 10:40,Cliente - 026,Media,Código Sumário - 277,8/1/2021 7:58,Desenvolvimento
+123634,Atendente - 01,Aberto,Não Crítico,Colaborador - 0106,-,26-01-2021 11:57,Cliente - 026,Media,Código Sumário - 278,8/1/2021 8:10,Desenvolvimento
+123635,Atendente - 01,Aberto,-,Colaborador - 36,-,14-01-2021 09:20,Cliente - 009,Alta,Código Sumário - 279,8/1/2021 8:14,Bug
+123636,Atendente - 01,Fechado,Não Crítico,Colaborador - 0126,-,18-03-2021 14:37,Cliente - 010,Media,Código Sumário - 280,8/1/2021 13:21,Desenvolvimento
+123637,Atendente - 01,Fechado,Crítico,Colaborador - 08,-,13-12-2020 15:26,Cliente - 022,Alta,Código Sumário - 281,8/1/2021 14:18,Desenvolvimento
+123638,Atendente - 01,Fechado,Não Crítico,Colaborador - 0127,-,8/1/2021 10:31,Cliente - 015,Media,Código Sumário - 282,8/1/2021 16:21,Desenvolvimento
+123639,Atendente - 03,Aberto,-,Colaborador - 19,Colaborador - 19,4/1/2021 12:46,Cliente - 009,Baixa,Código Sumário - 283,8/1/2021 18:55,Desenvolvimento
+123640,Atendente - 02,Aberto,Alerta,Atendente - 02,Colaborador - 02,9/12/2020 11:33,Cliente - 009,Baixa,Código Sumário - 284,8/1/2021 18:57,Homologação
+123641,Atendente - 02,Aberto,Alerta,Atendente - 02,Colaborador - 02,13-02-2021 13:28,Cliente - 009,Baixa,Código Sumário - 285,8/1/2021 19:08,Homologação
+123642,Atendente - 02,Aberto,Alerta,Atendente - 02,Colaborador - 02,8/2/2021 10:22,Cliente - 009,Baixa,Código Sumário - 286,8/1/2021 19:03,Homologação
+123643,Atendente - 01,Aberto,-,Colaborador - 52,Colaborador - 16,12/12/2020 14:13,Cliente - 009,Media,Código Sumário - 287,12/1/2021 1:23,Manutenção
+123644,Atendente - 02,Fechado,Crítico,Colaborador - 0110,Colaborador - 16,4/12/2020 8:02,Cliente - 009,Alta,Código Sumário - 288,8/1/2021 7:45,Bug
+123645,Atendente - 01,Fechado,Não Crítico,Colaborador - 0127,Colaborador - 24,20-01-2021 15:13,Cliente - 009,Media,Código Sumário - 289,8/1/2021 7:46,Desenvolvimento
+123646,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,15-02-2021 16:50,Cliente - 009,Baixa,Código Sumário - 290,8/1/2021 7:50,Homologação
+123647,Atendente - 03,Fechado,Crítico,Colaborador - 0100,Colaborador - 16,8/2/2021 13:51,Cliente - 043,Alta,Código Sumário - 291,10/1/2021 3:15,Bug
+123648,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,25-12-2020 13:31,Cliente - 009,Baixa,Código Sumário - 292,8/1/2021 4:38,Homologação
+123649,Atendente - 03,Em Andamento,Crítico,Colaborador - 0100,Colaborador - 16,15-02-2021 09:18,Cliente - 044,Alta,Código Sumário - 293,8/1/2021 7:07,Bug
+123650,Atendente - 01,Em Andamento,Crítico,Colaborador - 0128,Colaborador - 24,10/1/2021 13:04,Cliente - 020,Alta,Código Sumário - 294,8/1/2021 6:53,Desenvolvimento
+123651,Atendente - 01,Em Andamento,Não Crítico,Colaborador - 062,-,22-12-2020 15:48,Cliente - 033,Media,Código Sumário - 295,8/1/2021 7:55,Desenvolvimento
+123652,Atendente - 01,Em Andamento,Não Crítico,Colaborador - 062,-,10/1/2021 16:42,Cliente - 033,Media,Código Sumário - 296,8/1/2021 22:02,Desenvolvimento
+123653,Atendente - 02,Em Andamento,Alerta,Atendente - 02,Colaborador - 02,1/3/2021 16:27,Cliente - 009,Baixa,Código Sumário - 297,8/1/2021 22:13,Homologação
+123654,Atendente - 02,Em Andamento,Alerta,Atendente - 02,Colaborador - 02,8/3/2021 12:01,Cliente - 009,Baixa,Código Sumário - 298,8/1/2021 7:11,Homologação
+123655,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,16-03-2021 11:05,Cliente - 009,Baixa,Código Sumário - 299,8/1/2021 7:09,Homologação
+123656,Atendente - 01,Fechado,Crítico,Colaborador - 0129,-,9/3/2021 15:15,Cliente - 045,Alta,Código Sumário - 300,8/1/2021 2:20,Desenvolvimento
+123657,Atendente - 01,Aberto,Não Crítico,Colaborador - 064,Colaborador - 24,20-12-2020 10:46,Cliente - 046,Baixa,Código Sumário - 301,8/1/2021 2:54,Desenvolvimento
+123658,Atendente - 01,Aberto,Não Crítico,Colaborador - 064,Colaborador - 24,20-12-2020 10:46,Cliente - 046,Media,Código Sumário - 302,8/1/2021 4:23,Desenvolvimento
+123659,Atendente - 01,Aberto,Não Crítico,Colaborador - 064,Colaborador - 24,22-02-2021 14:29,Cliente - 046,Baixa,Código Sumário - 303,8/1/2021 7:45,Desenvolvimento
+123660,Atendente - 02,Fechado,Alerta,Atendente - 02,Colaborador - 02,14-03-2021 13:22,Cliente - 009,Baixa,Código Sumário - 304,8/1/2021 13:21,Homologação
+123661,Atendente - 01,Em Andamento,Crítico,Atendente - 01,Colaborador - 01,31-01-2021 09:20,Cliente - 047,Media,Código Sumário - 305,11/1/2021 7:38,Projeto
+123662,Atendente - 04,Fechado,-,Colaborador - 0120,Colaborador - 073,23-02-2021 10:37,Cliente - 009,Baixa,Código Sumário - 306,8/1/2021 4:07,Manutenção
+123663,Atendente - 04,Fechado,-,Colaborador - 24,Colaborador - 24,3/3/2021 13:28,Cliente - 020,Baixa,Código Sumário - 307,8/1/2021 4:16,Desenvolvimento
+123665,Atendente - 04,Fechado,-,Colaborador - 24,Colaborador - 24,26-02-2021 14:43,Cliente - 009,Baixa,Código Sumário - 309,8/1/2021 4:23,Desenvolvimento
+123667,Atendente - 04,Fechado,Erro Crítico,Colaborador - 12,Colaborador - 073,7/2/2021 10:31,Cliente - 033,Alta,Código Sumário - 311,8/1/2021 4:35,Manutenção
+123668,Atendente - 04,Fechado,-,Colaborador - 24,Colaborador - 24,6/3/2021 15:24,Cliente - 046,Media,Código Sumário - 312,8/1/2021 4:44,Desenvolvimento
+123669,Atendente - 04,Fechado,-,Colaborador - 24,Colaborador - 24,17-12-2020 09:26,Cliente - 042,Media,Código Sumário - 313,8/1/2021 6:20,Desenvolvimento
+123670,Atendente - 01,Fechado,-,Colaborador - 21,Colaborador - 24,21-01-2021 16:21,Cliente - 009,Media,Código Sumário - 314,8/1/2021 5:15,Desenvolvimento
+123671,Atendente - 01,Fechado,-,Colaborador - 069,-,28-12-2020 10:46,Cliente - 009,Baixa,Código Sumário - 315,9/1/2021 6:36,Bug
+123672,Atendente - 01,Em Andamento,-,Atendente - 01,Colaborador - 01,30-01-2021 10:20,Cliente - 046,Media,Código Sumário - 316,8/1/2021 11:41,Projeto
+123673,Atendente - 01,Fechado,-,Colaborador - 0108,Colaborador - 077,13-01-2021 16:17,Cliente - 009,Alta,Código Sumário - 317,11/1/2021 4:45,Manutenção
+123674,Atendente - 01,Fechado,-,Colaborador - 079,Colaborador - 079,8/12/2020 13:39,Cliente - 048,Media,Código Sumário - 318,10/1/2021 12:53,Manutenção
+123676,Atendente - 04,Fechado,Erro Crítico,Colaborador - 13,Colaborador - 069,23-02-2021 14:28,Cliente - 009,Alta,Código Sumário - 320,9/1/2021 6:25,Manutenção
+123677,Atendente - 01,Fechado,-,Colaborador - 079,Colaborador - 079,4/12/2020 10:00,Cliente - 009,Media,Código Sumário - 321,11/1/2021 4:50,Manutenção
+123678,Atendente - 01,Em Andamento,-,Colaborador - 079,Colaborador - 079,13-03-2021 09:07,Cliente - 009,Media,Código Sumário - 322,11/1/2021 2:44,Manutenção
+123679,Atendente - 01,Em Andamento,-,Colaborador - 0114,Colaborador - 079,29-12-2020 12:46,Cliente - 045,Media,Código Sumário - 323,11/1/2021 2:56,Atualização
+123680,Atendente - 01,Em Andamento,-,Colaborador - 077,Colaborador - 077,2/3/2021 8:19,Cliente - 009,Media,Código Sumário - 324,10/1/2021 13:21,Manutenção
+123681,Atendente - 01,Em Andamento,Crítico,Colaborador - 14,Colaborador - 069,26-02-2021 16:43,Cliente - 009,Alta,Código Sumário - 325,8/1/2021 3:00,Desenvolvimento
+123682,Atendente - 01,Em Andamento,Crítico,Colaborador - 10,Colaborador - 36,12/2/2021 11:55,Cliente - 009,Alta,Código Sumário - 326,13-01-2021 00:01,Bug
+123683,Atendente - 04,Fechado,Erro Crítico,Colaborador - 55,Colaborador - 069,13-12-2020 11:08,Cliente - 009,Alta,Código Sumário - 327,8/1/2021 3:30,Manutenção
+123684,Atendente - 04,Fechado,-,Colaborador - 065,Colaborador - 065,4/3/2021 10:20,Cliente - 003,Alta,Código Sumário - 328,8/1/2021 3:37,Manutenção
+123686,Atendente - 04,Em Andamento,Error,Colaborador - 25,Colaborador - 075,22-12-2020 09:33,Cliente - 029,Alta,Código Sumário - 330,8/1/2021 3:46,Manutenção
+123687,Atendente - 04,Fechado,Crítico,Colaborador - 12,Colaborador - 077,7/2/2021 10:01,Cliente - 022,Alta,Código Sumário - 331,8/1/2021 3:57,Manutenção
+123688,Atendente - 01,Fechado,Crítico,Colaborador - 08,Colaborador - 36,5/1/2021 9:46,Cliente - 009,Alta,Código Sumário - 332,7/1/2021 10:28,Bug
+123689,Atendente - 01,Fechado,Crítico,Colaborador - 0124,Colaborador - 077,12/3/2021 14:19,Cliente - 009,Alta,Código Sumário - 333,10/1/2021 13:11,Desenvolvimento
+123690,Atendente - 01,Resolvido,-,Colaborador - 36,Colaborador - 36,1/2/2021 14:11,Cliente - 016,Baixa,Código Sumário - 334,14-01-2021 00:42,Backup
+123691,Atendente - 02,Fechado,-,Colaborador - 36,Colaborador - 36,11/1/2021 14:42,Cliente - 042,Alta,Código Sumário - 335,11/1/2021 2:31,Homologação
+123692,Atendente - 02,Resolvido,-,Colaborador - 36,Colaborador - 36,15-03-2021 12:24,Cliente - 022,Alta,Código Sumário - 336,11/1/2021 2:35,Segurança
+123693,Atendente - 01,Resolvido,-,Colaborador - 36,Colaborador - 36,5/12/2020 10:37,Cliente - 019,Alta,Código Sumário - 337,8/1/2021 6:12,Atualização
+123694,Atendente - 04,Fechado,-,Colaborador - 067,Colaborador - 067,17-03-2021 09:37,Cliente - 007,Baixa,Código Sumário - 338,7/1/2021 7:46,Manutenção
+123695,Atendente - 04,Fechado,-,Colaborador - 0130,Colaborador - 070,2/2/2021 9:03,Cliente - 004,Baixa,Código Sumário - 339,12/1/2021 11:38,Manutenção
+123696,Atendente - 04,Fechado,Crítico,Colaborador - 08,Colaborador - 38,26-02-2021 09:04,Cliente - 009,Alta,Código Sumário - 340,8/1/2021 4:03,Manutenção
+123697,Atendente - 04,Fechado,-,Colaborador - 38,Colaborador - 38,17-12-2020 16:12,Cliente - 009,Baixa,Código Sumário - 341,10/1/2021 12:50,Manutenção
+123698,Atendente - 04,Fechado,-,Colaborador - 38,Colaborador - 38,16-12-2020 15:29,Cliente - 009,Baixa,Código Sumário - 342,8/1/2021 7:41,Manutenção
+123699,Atendente - 01,Em Andamento,Error,Colaborador - 25,Colaborador - 080,21-01-2021 15:11,Cliente - 042,Alta,Código Sumário - 343,8/1/2021 18:32,Banco de Dados
+123700,Atendente - 01,Fechado,-,Colaborador - 44,Colaborador - 39,17-12-2020 15:35,Cliente - 022,Baixa,Código Sumário - 344,8/1/2021 7:51,Desenvolvimento
+123701,Atendente - 01,Fechado,Crítico,Colaborador - 0104,Colaborador - 39,18-02-2021 15:12,Cliente - 009,Alta,Código Sumário - 345,12/1/2021 6:23,Desenvolvimento
+123703,Atendente - 01,Fechado,-,Colaborador - 0132,Colaborador - 070,13-01-2021 13:53,Cliente - 009,Alta,Código Sumário - 347,7/1/2021 1:45,Login
+123704,Atendente - 04,Fechado,-,Colaborador - 46,Colaborador - 46,25-12-2020 13:43,Cliente - 016,Baixa,Código Sumário - 348,7/1/2021 5:27,Manutenção
+123705,Atendente - 04,Aberto,Crítico,Colaborador - 07,Colaborador - 068,17-01-2021 16:13,Cliente - 020,Alta,Código Sumário - 349,7/1/2021 5:49,Bug
+123706,Atendente - 04,Fechado,-,Colaborador - 067,Colaborador - 067,13-01-2021 10:00,Cliente - 020,Baixa,Código Sumário - 350,7/1/2021 5:52,Manutenção
+123707,Atendente - 04,Fechado,-,Colaborador - 37,Colaborador - 37,30-12-2020 11:01,Cliente - 020,Baixa,Código Sumário - 351,11/1/2021 4:14,Manutenção
+123708,Atendente - 01,Resolvido,-,Colaborador - 36,Colaborador - 36,19-01-2021 13:25,Cliente - 009,Baixa,Código Sumário - 352,7/1/2021 6:25,Backup
+123709,Atendente - 01,Resolvido,-,Colaborador - 36,Colaborador - 36,30-01-2021 13:02,Cliente - 009,Media,Código Sumário - 353,7/1/2021 6:27,Atualização
+123710,Atendente - 01,Aberto,Crítico,Colaborador - 0104,Colaborador - 079,20-12-2020 10:46,Cliente - 049,Alta,Código Sumário - 354,9/1/2021 7:48,Manutenção
+123711,Atendente - 01,Fechado,Crítico,Colaborador - 0104,Colaborador - 079,18-12-2020 13:24,Cliente - 009,Alta,Código Sumário - 355,7/1/2021 7:49,Manutenção
+123712,Atendente - 01,Fechado,-,Colaborador - 079,Colaborador - 079,6/12/2020 9:11,Cliente - 009,Media,Código Sumário - 356,7/1/2021 7:53,Manutenção
+123713,Atendente - 04,Resolvido,-,Colaborador - 31,Colaborador - 31,31-12-2020 10:25,Cliente - 009,Media,Código Sumário - 357,7/1/2021 8:01,Manutenção
+123714,Atendente - 04,Fechado,-,Colaborador - 065,Colaborador - 065,12/2/2021 9:40,Cliente - 009,Media,Código Sumário - 358,7/1/2021 9:36,Manutenção
+123715,Atendente - 04,Fechado,-,Colaborador - 30,Colaborador - 30,15-01-2021 14:04,Cliente - 020,Media,Código Sumário - 359,7/1/2021 1:07,Manutenção
+123716,Atendente - 02,Fechado,Erro Crítico,Atendente - 02,Colaborador - 16,5/12/2020 16:40,Cliente - 020,Alta,Código Sumário - 360,7/1/2021 21:15,Manutenção
+123717,Atendente - 01,Fechado,Não Crítico,Colaborador - 0133,-,6/2/2021 12:23,Cliente - 009,Media,Código Sumário - 361,7/1/2021 1:22,Desenvolvimento
+123718,Atendente - 01,Fechado,Não Crítico,Colaborador - 0133,-,17-01-2021 15:33,Cliente - 009,Media,Código Sumário - 362,7/1/2021 4:12,Desenvolvimento
+123720,Atendente - 03,Fechado,Crítico,Colaborador - 060,Colaborador - 16,22-02-2021 09:06,Cliente - 009,Alta,Código Sumário - 364,7/1/2021 3:01,Bug
+123721,Atendente - 03,Fechado,Crítico,Colaborador - 20,Atendente - 03,18-03-2021 08:41,Cliente - 009,Media,Código Sumário - 365,7/1/2021 5:42,Bug
+123722,Atendente - 01,Fechado,Erro Crítico,Colaborador - 0108,Colaborador - 16,4/3/2021 10:27,Cliente - 009,Alta,Código Sumário - 366,7/1/2021 21:14,Bug
+123723,Atendente - 04,Resolvido,-,Colaborador - 31,Colaborador - 31,11/12/2020 8:00,Cliente - 032,Media,Código Sumário - 367,7/1/2021 2:23,Atualização
+123724,Atendente - 04,Fechado,-,Colaborador - 30,Colaborador - 30,8/1/2021 14:00,Cliente - 032,Media,Código Sumário - 368,7/1/2021 2:51,Manutenção
+123725,Atendente - 04,Fechado,-,Colaborador - 065,Colaborador - 065,14-03-2021 12:02,Cliente - 020,Media,Código Sumário - 369,11/1/2021 9:18,Desenvolvimento
+123726,Atendente - 04,Fechado,Crítico,Colaborador - 075,Colaborador - 075,9/12/2020 16:08,Cliente - 020,Alta,Código Sumário - 370,7/1/2021 5:38,Desenvolvimento
+123727,Atendente - 04,Fechado,-,Colaborador - 065,Colaborador - 065,6/2/2021 15:27,Cliente - 019,Media,Código Sumário - 371,7/1/2021 5:12,Desenvolvimento
+123728,Atendente - 04,Fechado,-,Colaborador - 39,Colaborador - 39,21-02-2021 15:28,Cliente - 020,Media,Código Sumário - 372,7/1/2021 6:01,Desenvolvimento
+123729,Atendente - 04,Fechado,-,Colaborador - 37,Colaborador - 37,5/3/2021 13:47,Cliente - 009,Media,Código Sumário - 373,7/1/2021 7:43,Manutenção
+123730,Atendente - 04,Fechado,-,Colaborador - 067,Colaborador - 067,31-12-2020 13:48,Cliente - 009,Media,Código Sumário - 374,13-01-2021 14:19,Manutenção
+123731,Atendente - 01,Fechado,-,Colaborador - 070,Colaborador - 070,7/2/2021 8:38,Cliente - 009,Media,Código Sumário - 375,7/1/2021 8:04,Manutenção
+123732,Atendente - 04,Fechado,-,Colaborador - 18,Colaborador - 18,1/12/2020 16:47,Cliente - 002,Media,Código Sumário - 376,7/1/2021 3:41,Manutenção
+123733,Atendente - 04,Aberto,-,Colaborador - 18,Colaborador - 18,22-02-2021 14:29,Cliente - 029,Alta,Código Sumário - 377,12/1/2021 5:54,Desenvolvimento
+123734,Atendente - 04,Aberto,-,Colaborador - 18,Colaborador - 18,22-02-2021 14:29,Cliente - 009,Alta,Código Sumário - 378,7/1/2021 15:44,Desenvolvimento
+123735,Atendente - 04,Aberto,-,Colaborador - 18,Colaborador - 18,22-02-2021 14:29,Cliente - 009,Media,Código Sumário - 379,13-01-2021 19:55,Desenvolvimento
+123736,Atendente - 04,Aberto,-,Colaborador - 18,Colaborador - 18,22-02-2021 14:29,Cliente - 009,Media,Código Sumário - 380,10/1/2021 8:42,Desenvolvimento
+123737,Atendente - 04,Aberto,-,Colaborador - 18,Colaborador - 18,22-02-2021 14:29,Cliente - 009,Media,Código Sumário - 381,7/1/2021 21:21,Manutenção
+123738,Atendente - 01,Fechado,Erro Crítico,Colaborador - 20,Colaborador - 18,22-02-2021 14:29,Cliente - 019,Alta,Código Sumário - 382,7/1/2021 21:27,Manutenção
+123740,Atendente - 01,Fechado,Erro Crítico,Colaborador - 11,Colaborador - 18,12/2/2021 9:24,Cliente - 004,Alta,Código Sumário - 384,7/1/2021 21:30,Bug
+123741,Atendente - 01,Fechado,Erro Crítico,Colaborador - 064,Colaborador - 18,28-02-2021 09:10,Cliente - 020,Alta,Código Sumário - 385,7/1/2021 21:34,Bug
+123742,Atendente - 04,Fechado,-,Colaborador - 068,Colaborador - 068,7/1/2021 13:37,Cliente - 036,Baixa,Código Sumário - 386,8/1/2021 7:06,Atualização
+123743,Atendente - 04,Fechado,-,Colaborador - 46,Colaborador - 46,12/2/2021 12:11,Cliente - 033,Media,Código Sumário - 387,10/1/2021 6:28,Manutenção
+123744,Atendente - 04,Fechado,-,Colaborador - 18,Colaborador - 18,3/2/2021 16:40,Cliente - 009,Media,Código Sumário - 388,7/1/2021 7:49,Desenvolvimento
+123745,Atendente - 04,Fechado,-,Colaborador - 18,Colaborador - 18,28-02-2021 16:44,Cliente - 047,Media,Código Sumário - 389,7/1/2021 8:00,Desenvolvimento
+123746,Atendente - 04,Fechado,-,Colaborador - 18,Colaborador - 18,3/2/2021 8:31,Cliente - 009,Media,Código Sumário - 390,8/1/2021 8:27,Desenvolvimento
+123747,Atendente - 04,Fechado,-,Colaborador - 18,Colaborador - 18,25-12-2020 14:52,Cliente - 037,Baixa,Código Sumário - 391,11/1/2021 9:17,Desenvolvimento
+123748,Atendente - 04,Fechado,Crítico,Colaborador - 18,Colaborador - 18,10/3/2021 13:01,Cliente - 046,Baixa,Código Sumário - 392,13-01-2021 09:00,Desenvolvimento
+123749,Atendente - 04,Fechado,Não Crítico,Colaborador - 18,Colaborador - 18,8/12/2020 11:06,Cliente - 009,Baixa,Código Sumário - 393,10/1/2021 3:00,Desenvolvimento
+123750,Atendente - 04,Fechado,Crítico,Colaborador - 18,Colaborador - 18,12/1/2021 16:53,Cliente - 009,Baixa,Código Sumário - 394,12/1/2021 8:42,Manutenção
+123751,Atendente - 04,Fechado,Crítico,Colaborador - 37,Colaborador - 37,9/1/2021 13:42,Cliente - 044,Baixa,Código Sumário - 395,7/1/2021 18:38,Manutenção
+123752,Atendente - 04,Fechado,Erro Crítico,Colaborador - 39,Colaborador - 39,3/3/2021 11:12,Cliente - 040,Baixa,Código Sumário - 396,7/1/2021 7:36,Desenvolvimento
+123753,Atendente - 04,Fechado,Erro Crítico,Colaborador - 067,Colaborador - 067,5/3/2021 10:48,Cliente - 015,Baixa,Código Sumário - 397,7/1/2021 7:49,Manutenção
+123754,Atendente - 04,Fechado,Crítico,Colaborador - 35,Colaborador - 38,6/12/2020 10:38,Cliente - 053,Alta,Código Sumário - 398,7/1/2021 8:01,Login
+123755,Atendente - 04,Fechado,Erro Crítico,Colaborador - 38,Colaborador - 38,6/1/2021 9:09,Cliente - 002,Baixa,Código Sumário - 399,7/1/2021 11:23,Manutenção
+123756,Atendente - 04,Fechado,Erro Crítico,Colaborador - 38,Colaborador - 38,18-12-2020 13:46,Cliente - 045,Baixa,Código Sumário - 400,7/1/2021 12:26,Manutenção
+123757,Atendente - 04,Fechado,Alerta,Colaborador - 38,Colaborador - 38,28-02-2021 11:38,Cliente - 009,Baixa,Código Sumário - 401,8/1/2021 12:10,Manutenção
+123758,Atendente - 04,Fechado,-,Colaborador - 38,Colaborador - 38,18-02-2021 11:10,Cliente - 009,Baixa,Código Sumário - 402,7/1/2021 22:53,Manutenção
+123759,Atendente - 04,Fechado,-,Colaborador - 38,Colaborador - 38,6/3/2021 13:30,Cliente - 009,Baixa,Código Sumário - 403,7/1/2021 22:55,Manutenção
+123760,Atendente - 04,Fechado,-,Colaborador - 38,Colaborador - 38,10/3/2021 16:21,Cliente - 009,Baixa,Código Sumário - 404,11/1/2021 5:35,Manutenção
+123761,Atendente - 04,Fechado,Crítico,Colaborador - 066,Colaborador - 075,11/2/2021 9:02,Cliente - 051,Alta,Código Sumário - 405,10/1/2021 10:27,Desenvolvimento
